@@ -1,5 +1,5 @@
 # SuperOrca
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/SuperOrca?style=social"> <img src="https://img.shields.io/website?label=leastrio.net&url=https%3A%2F%2Fleastrio.net&style=flat-square">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/SuperOrca?style=social">
 
 # About Me
 
